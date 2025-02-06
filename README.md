@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Lorena Goldoni 👋
 
-<!--
-**Lorygold/Lorygold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![django](https://img.shields.io/badge/django-Intermediate-darkgreen)
+![Python](https://img.shields.io/badge/python-Intermediate-blue)
+![Elastic Stack](https://img.shields.io/badge/ELK-Intermediate-yellow)
+![Docker](https://img.shields.io/badge/docker-Intermediate-informational)
 
-Here are some ideas to get you started:
+#### A Back-End Developer by day ☼ and a Master student by night ☾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working as **Threat Detection Engineer @ Certego**
+* 🌱 I’m currently completing a Master degree in Computer Science, focusing on Machine Learning studies
+* 💻 I developed [BuffaLogs](https://github.com/certego/BuffaLogs) during my three-year University thesis internship and I'm currently the main maintainer
+
+#### 🪷 My recent work
+* 🎤 I participated as a speaker at the international open source software conference at FOSDEM '25, [presenting BuffaLogs](https://fosdem.org/2025/schedule/event/fosdem-2025-5623-an-overview-on-detecting-login-anomalies-with-buffalogs/)
+
+### 📬 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-goldoni-69154418b/)
