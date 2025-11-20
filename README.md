@@ -8,7 +8,7 @@
 #### A Back-End Developer by day ☼ and a Master student by night ☾
 
 * 🔭 I’m currently working as **Threat Detection Engineer @ Certego**
-* 🌱 I’m currently completing a Master degree in Computer Science, focusing on Machine Learning studies
+* 🌱 I’m currently completing a Master degree in Computer Science
 * 👥 I'm a member of [the Honeynet Project](https://www.honeynet.org/) - a non-profit security research organization -
 * 👩🏼‍🏫 I'm a Mentor for the [Google Summer of Code '25](https://summerofcode.withgoogle.com/) for the Honeynet org with the [BuffaLogs project](https://github.com/certego/BuffaLogs)
 
@@ -19,4 +19,3 @@
 
 ### 📬 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-goldoni-69154418b/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Lorygold_)
