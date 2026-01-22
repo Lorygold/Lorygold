@@ -9,7 +9,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-Beginner-lightblue)
 
 
-#### A Back-End Developer by day ☼ and a Master student by night ☾
+#### A Threat Detection Engineer by day ☼ and a Master student by night ☾
 
 * 🔭 Currently working as **Threat Detection Engineer @ Certego** and completing a **Master degree** in Computer Science at the University of Modena, focusing on **Cloud Security and Machine Learning applied to CyberSec**.
 * 🎓 Completed a Bachelor's degree in **"Computer Systems and Networks Security"** at the University of Milan.
