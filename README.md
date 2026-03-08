@@ -11,8 +11,9 @@
 
 #### A Threat Detection Engineer by day ☼ and a Master student by night ☾
 
-* 🔭 Currently working as **Threat Detection Engineer @ Certego** and completing a **Master degree** in Computer Science at the University of Modena, focusing on **Cloud Security and Machine Learning applied to CyberSec**.
-* 🎓 Completed a Bachelor's degree in **"Computer Systems and Networks Security"** at the University of Milan.
+* 🔭 Currently working as **Detection Engineer @ Würth IT Italy** and completing a **Master degree** in Computer Science at the _University of Modena_, focusing on **Cloud Security and Machine Learning applied to CyberSec**.
+* 🖥️ Worked 3 years as **Threat Detection Engineer @ Certego srl** 
+* 🎓 Completed a Bachelor's degree in **"Computer Systems and Networks Security"** at the _University of Milan_.
 * 👥 Member of [the Honeynet Project](https://www.honeynet.org/) - a non-profit security research organization
 * 👩🏼‍🏫 Mentor for the [Google Summer of Code](https://summerofcode.withgoogle.com/) for the Honeynet org with the [BuffaLogs project](https://github.com/certego/BuffaLogs)
 
@@ -23,7 +24,7 @@
 * [11/2022 - 03/2023] Created [BuffaLogs](https://github.com/certego/BuffaLogs) - an open source Django app to detect login anomalies - during my three-year University thesis internship @ Certego
 
 #### 🎤 Talks & Conferences
-* [02/2026] I will participate as a co-speaker at **FOSDEM 2026**, presenting [Investigating Security Incidents with Forensic Snapshots in Kubernetes](https://fosdem.org/2026/schedule/event/forensic-snapshots-in-kubernetes/).
+* [02/2026] Participated as a co-speaker at **FOSDEM 2026**, presenting [Investigating Security Incidents with Forensic Snapshots in Kubernetes](https://fosdem.org/2026/schedule/event/forensic-snapshots-in-kubernetes/).
 * [02/2025] Participated as a co-speaker at **FOSDEM 2025**, presenting [BuffaLogs](https://fosdem.org/2025/schedule/event/fosdem-2025-5623-an-overview-on-detecting-login-anomalies-with-buffalogs/).
 
 ### 📬 Get in Touch
